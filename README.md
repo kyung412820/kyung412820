@@ -37,11 +37,4 @@ I'm a self-taught passionate BackEnd developer from Korea ko
 <br />
 <br />
 
-<a href="https://github.com/kyung412820/HASUNG-STOCK-master">
-  <img align="right" alt="GitHub" width="21px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" />
-</a>
 
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
