@@ -7,6 +7,14 @@
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyung412820)](https://github.com/kyung412820/github-readme-stats)
 
 <!--START_SECTION:waka-->
+LOCALE: "ko"
+SHOW_LINES_OF_CODE: "True"
+SHOW_PROFILE_VIEWS: "False"
+SHOW_DAYS_OF_WEEK: "False"
+SHOW_SHORT_INFO: "False"
+SHOW_LOC_CHART: "False"
+SHOW_PROJECTS: "False"
+SHOW_LANGUAGE_PER_REPO: "False"
 <!--END_SECTION:waka-->
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kyung412820&repo=github-readme-stats)](https://github.com/kyung412820/github-readme-stats)
