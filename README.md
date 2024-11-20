@@ -30,8 +30,8 @@ I'm a self-taught passionate BackEnd developer from Korea ko
 <a href="https://github.com/kyung412820/HASUNG-STOCK-master">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kyung412820&repo=HASUNG-STOCK-master&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kyung412820&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/kyung412820/Age-of-War">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kyung412820&repo=Age-of-War&theme=buefy" />
 </a>
 
 <br />
