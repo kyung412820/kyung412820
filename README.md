@@ -1,6 +1,8 @@
 ## Hi there 👋
 [![Kyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyung412820&show_icons=true)](https://github.com/kyung412820)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kyung412820/kyung412820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
