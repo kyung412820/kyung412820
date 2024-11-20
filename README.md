@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, Thank you for your visit.👋
 [![Kyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyung412820&show_icons=true&theme=synthwave)](https://github.com/kyung412820)
 
 
