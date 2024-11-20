@@ -1,6 +1,6 @@
 <p align="center">
  <img width="130px" src="https://img.freepik.com/free-vector/abstract-colorful-circular-blank-frame-template-design_1017-51012.jpg" />
-    <h2 align="center">Hello!, I'm Kyunghun</h2>
+    <h2 align="center">Hello!, I'm Livarty</h2>
 </p>
 
 <br />
