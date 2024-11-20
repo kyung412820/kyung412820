@@ -1,6 +1,7 @@
 <p align="center">
-  <span style="font-size: 30px; font-weight: bold; color: #6580DD;">Hello!, I'm KYUNGHUN</span>
+  <span style="font-size: 36px; font-weight: bold; color: #6580DD;">Hello!, I'm KYUNGHUN</span>
 </p>
+
 
 
 <br />
