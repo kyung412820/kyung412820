@@ -8,7 +8,7 @@ I'm a self-taught passionate BackEnd developer from Korea ko
 
 **About me**
 
-- 💼 BackEnd Engineer at [IntelliJ IDEA]([http://razorpay.com/](https://www.jetbrains.com/ko-kr/idea/))
+- 💼 BackEnd Engineer at [IntelliJ IDEA](https://www.jetbrains.com/ko-kr/idea/)
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
