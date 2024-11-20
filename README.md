@@ -4,19 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyung412820&layout=compact)](https://github.com/kyung412820/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyung412820)](https://github.com/kyung412820/github-readme-stats)
-
-<!--START_SECTION:waka-->
-LOCALE: "ko"                      <!-- 통계를 한국어로 표시 -->
-SHOW_LINES_OF_CODE: "True"        <!-- 코드 줄 수 표시 -->
-SHOW_PROFILE_VIEWS: "False"       <!-- 프로필 조회 수 표시하지 않음 -->
-SHOW_DAYS_OF_WEEK: "False"       <!-- 요일별 활동 표시하지 않음 -->
-SHOW_SHORT_INFO: "False"         <!-- 짧은 통계 정보 표시하지 않음 -->
-SHOW_LOC_CHART: "False"          <!-- LOC 차트 표시하지 않음 -->
-SHOW_PROJECTS: "False"           <!-- 프로젝트별 활동 표시하지 않음 -->
-SHOW_LANGUAGE_PER_REPO: "False"  <!-- 리포지토리별 언어 통계 표시하지 않음 -->
-<!--END_SECTION:waka-->
-
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kyung412820&repo=github-readme-stats)](https://github.com/kyung412820/github-readme-stats)
 <!--
