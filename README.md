@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://w7.pngwing.com/pngs/278/874/png-transparent-star-glare-star-glare-star-purple-star.png" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://eightfold.ai/wp-content/uploads/blur5.svg" align="center" alt="GitHub Readme Stats" />
     <h2 align="center">Hello!, I'm Kyunghun</h2>
 </p>
 
