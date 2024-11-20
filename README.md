@@ -1,4 +1,4 @@
-<h1 align="center" style="color:skyblue; font-weight:bold; text-transform:uppercase;">KYUNGHUN</h1>
+<h1 align="center" style="color:skyblue; font-weight:bold; text-transform:uppercase;">Hello!, I'm KYUNGHUN</h1>
 <br />
 
 **Introduce**
