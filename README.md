@@ -1,6 +1,6 @@
 <p align="center">
 
-  <p>$\huge{\rm{\color{#5ad7b7}Hello!, I'm  KYUNGHUN}}$</p>
+  <p>Hello!, I'm  KYUNGHUN</p>
 </p>
 
 <br />
