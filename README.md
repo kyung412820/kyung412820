@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Kyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyung412820)](https://github.com/kyung412820)
+[![Kyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyung412820&show_icons=true)](https://github.com/kyung412820)
 
 <!--
 **kyung412820/kyung412820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
