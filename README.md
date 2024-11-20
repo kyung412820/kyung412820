@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Kyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyung412820&show_icons=true&theme=tokyonight)](https://github.com/kyung412820)
+[![Kyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyung412820&show_icons=true&theme=merko)](https://github.com/kyung412820)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyung412820&layout=compact)](https://github.com/kyung412820/github-readme-stats)
