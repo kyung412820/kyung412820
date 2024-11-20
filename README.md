@@ -34,10 +34,7 @@ I'm a self-taught passionate BackEnd developer from Korea ko
 <br />
 <br />
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+<a href="https://kyunghun0515.tistory.com/">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://t1.daumcdn.net/tistory_admin/top_v2/tistory-apple-touch-favicon.png" />
 </a>
 
