@@ -1,4 +1,4 @@
-<h1 align="center" style="color:skyblue; font-weight:bold; text-transform:uppercase;">Hello!, I'm KYUNGHUN</h1>
+<p>$\bf{\large{\color{#6580DD}Hello!, I'm KYUNGHUN}}$</p>
 <br />
 
 **Introduce**
