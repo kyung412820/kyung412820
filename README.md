@@ -1,6 +1,6 @@
 <p align="center">
   <span style="font-size: 30px; font-weight: bold; color: #6580DD;">Hello!, I'm KYUNGHUN</span>
-  <p>$\bf{\large{\huge{even\ larger\ size{\color{{#6580DD}Hello!, I'm KYUNGHUN}}}$</p>
+  <p>$\huge{\rm{\color{#5ad7b7}Hello!, I'm KYUNGHUN}}$</p>
 </p>
 
 <br />
