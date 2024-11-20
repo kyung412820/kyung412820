@@ -14,8 +14,8 @@ I'm a self-taught passionate BackEnd developer from Korea ko
 
 - 💬 I want to enjoy exploring various coding experiences!
 
-<code><img height="20" alt="javascript" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZHQE89O5n7JuJZLQE3MCBysxZx3Y-JMiSGQ&s"></code>
-<code><img height="20" alt="typescript" src="https://blog.kakaocdn.net/dn/cRvXB1/btq7iPRHO4J/MSMErhtKMFmFMzdn1Ue9z1/img.png"></code>
+<code><img height="20" alt="IntelliJ" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZHQE89O5n7JuJZLQE3MCBysxZx3Y-JMiSGQ&s"></code>
+<code><img height="20" alt="Spring" src="https://blog.kakaocdn.net/dn/cRvXB1/btq7iPRHO4J/MSMErhtKMFmFMzdn1Ue9z1/img.png"></code>
  
 
 
