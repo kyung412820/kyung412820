@@ -1,6 +1,4 @@
-<p align="center"><a href="https://github.com/kyung412820"><img width="80%" alt="Hello, I'm Kyunghun. I am a BackEnd developer!" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
+<h1 align="center" style="color:skyblue; font-weight:bold; text-transform:uppercase;">KYUNGHUN</h1>
 <br />
 
 **Introduce**
